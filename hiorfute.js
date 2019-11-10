@@ -1,4 +1,4 @@
-//prepare green and black tea cups for FCC members
+//FCC higher functions practice
 
 
 /**
